@@ -2,7 +2,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/696626364366716959)](https://discord.com/users/696626364366716959)
 
-<p align="center">
+<p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=daviidkoo4074&hide_title=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000001"/>
 </p>
 
